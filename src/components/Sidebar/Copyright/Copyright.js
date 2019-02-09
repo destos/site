@@ -11,8 +11,8 @@ const Copyright = ({ copyright }) => (
       target="_blank">
         {copyright.text}
     </a>
-    {copyright.svgs.map((cc_icon) => (
-        <img src={cc_icon} />
+    {copyright.svgs.map((cc_icon, i) => (
+        <img src={cc_icon} key={i}/>
     ))}
   </div>
 );
