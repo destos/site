@@ -9,29 +9,35 @@
 /sw.js
   Cache-Control: no-cache
 /offline-plugin-app-shell-fallback/
-  Link: </webpack-runtime-93c921b2142e64a21346.js>; rel=preload; as=script
+  Link: </webpack-runtime-2b7fb73f2d8b021df913.js>; rel=preload; as=script
   Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-503f54af27716ee6fe6a.js>; rel=preload; as=script
 /404
-  Link: </webpack-runtime-93c921b2142e64a21346.js>; rel=preload; as=script
+  Link: </webpack-runtime-2b7fb73f2d8b021df913.js>; rel=preload; as=script
   Link: </0-fa81cfce46896d498085.js>; rel=preload; as=script
 /tags
-  Link: </webpack-runtime-93c921b2142e64a21346.js>; rel=preload; as=script
+  Link: </webpack-runtime-2b7fb73f2d8b021df913.js>; rel=preload; as=script
   Link: </0-fa81cfce46896d498085.js>; rel=preload; as=script
 /categories
-  Link: </webpack-runtime-93c921b2142e64a21346.js>; rel=preload; as=script
-  Link: </0-fa81cfce46896d498085.js>; rel=preload; as=script
-/pages/about/
-  Link: </webpack-runtime-93c921b2142e64a21346.js>; rel=preload; as=script
+  Link: </webpack-runtime-2b7fb73f2d8b021df913.js>; rel=preload; as=script
   Link: </0-fa81cfce46896d498085.js>; rel=preload; as=script
 /posts/readme/
-  Link: </webpack-runtime-93c921b2142e64a21346.js>; rel=preload; as=script
+  Link: </webpack-runtime-2b7fb73f2d8b021df913.js>; rel=preload; as=script
+  Link: </0-fa81cfce46896d498085.js>; rel=preload; as=script
+/posts/nothing/
+  Link: </webpack-runtime-2b7fb73f2d8b021df913.js>; rel=preload; as=script
+  Link: </0-fa81cfce46896d498085.js>; rel=preload; as=script
+/pages/about/
+  Link: </webpack-runtime-2b7fb73f2d8b021df913.js>; rel=preload; as=script
   Link: </0-fa81cfce46896d498085.js>; rel=preload; as=script
 /tag/none
-  Link: </webpack-runtime-93c921b2142e64a21346.js>; rel=preload; as=script
+  Link: </webpack-runtime-2b7fb73f2d8b021df913.js>; rel=preload; as=script
+  Link: </0-fa81cfce46896d498085.js>; rel=preload; as=script
+/category/poetry
+  Link: </webpack-runtime-2b7fb73f2d8b021df913.js>; rel=preload; as=script
   Link: </0-fa81cfce46896d498085.js>; rel=preload; as=script
 /category/venial
-  Link: </webpack-runtime-93c921b2142e64a21346.js>; rel=preload; as=script
+  Link: </webpack-runtime-2b7fb73f2d8b021df913.js>; rel=preload; as=script
   Link: </0-fa81cfce46896d498085.js>; rel=preload; as=script
 /
-  Link: </webpack-runtime-93c921b2142e64a21346.js>; rel=preload; as=script
+  Link: </webpack-runtime-2b7fb73f2d8b021df913.js>; rel=preload; as=script
   Link: </0-fa81cfce46896d498085.js>; rel=preload; as=script
